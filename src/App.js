@@ -1,5 +1,6 @@
 import "./App.css";
 import UsingForm from "./CustomDropdown/usingForm";
+import Home from "./Dashboard/Home";
 import Dropdown from "./Dropdown/Dropdown";
 import DropdownForForm from "./Filter/DropdownForForm";
 import FilterData from "./Filter/FilterData";
@@ -38,7 +39,7 @@ function App() {
 
   {/* <Dropdown /> */}
   {/* <DropdownForForm  /> */}
-  <UsingForm />
+  <Home />
   {/* <IjasApi /> */}
   
 </div>
